@@ -1,5 +1,5 @@
 # Apple Calculator
-## Overview The Apple Calculator is a versatile and user-friendly application designed to assist with basic arithmetic, scientific calculations, and a variety of other mathematical functions. This README provides instructions for using the calculator, a list of features, and troubleshooting tips.
+## The Apple Calculator is a versatile and user-friendly application designed to assist with basic arithmetic, scientific calculations, and a variety of other mathematical functions. This README provides instructions for using the calculator, a list of features, and troubleshooting tips.
 ## Features - 
 **Basic Arithmetic**: Addition, subtraction, multiplication, and division. -
 
